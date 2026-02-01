@@ -1,2 +1,16 @@
-# belovalonegocios-dotcom.github.io
-Site oficial do aplicativo BRAVO Mobilidade Urbana
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>BRAVO – Mobilidade Urbana</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="application-name" content="BRAVO">
+  <meta name="apple-mobile-web-app-title" content="BRAVO">
+</head>
+
+<body>
+  <h1>BRAVO</h1>
+  <p>Aplicativo de Mobilidade Urbana</p>
+</body>
+</html>
